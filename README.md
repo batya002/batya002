@@ -19,7 +19,7 @@
 ##
 
 <div align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="./assets/github-snake.svg" alt="snake"/>
 </div>
 
 ###
@@ -30,7 +30,7 @@
 
 ##
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 	<img width='12' />
 	<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png' height="40" alt='typescript logo' />
@@ -41,9 +41,34 @@
 	<img width="12" />
 	<img src='https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png' height='40' alt='node.js logo' />
 	<img width='12' />
-	<img src='assets/images/express.svg' height='40' alt='express.js logo' />
+	<img src='./assets/images/express.svg' height='40' alt='express.js logo' />
   <img width='12' />
   <img src='https://www.svgrepo.com/show/331488/mongodb.svg' height='40' alt='mongodb logo' />
+  <img width='12' />
+</div>
+
+##
+
+<div align='center'>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batya002&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batya002&layout=compact&theme=radical)
+
+</div>
+
+##
+
+<h3 align='left'>🛠 Технологии которые изучаю</h3>
+
+<div align='center'>
+  <img src='./assets/images/Go-Logo_Blue.svg' height='40' alt=golang logo' />
+  <img width='12' />
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png' height='40' alt='vue logo' />
+  <img width='12' />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="40" alt="postgresql logo" />
 </div>
 
 ##
