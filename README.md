@@ -8,15 +8,25 @@
 
 <div align='center'>
   <a href="https://t.me/batya_002" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" target="_blank"/>
   </a>
 </div>
 
-##
+###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=batya002&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
+###
 
 <h3 align='left'>👩‍💻  Обо мне</h3>
 
-##
+###
+
+<p align="center">Я backend и frontend разработчик, люблю писать чистый и эффективный код. Увлекаюсь современными технологиями и постоянно учусь чему-то новому!</p>
+
+###
 
 <div align="center">
  <img width="600" src="./assets/github-snake.svg" alt="snake"/>
@@ -49,11 +59,20 @@
 
 ##
 
+###
+
+<h3 align="left">🔥   Моя статистика :</h3>
+
+###
+
 <div align='center'>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batya002&show_icons=true&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=batya002&theme=tokyonight" height="220" alt="streak graph" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batya002&layout=compact&theme=radical)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batya002&theme=github-dark&hide_border=false&border_radius=5&area=true" alt="GitHub Activity Graph" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batya002&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batya002&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -72,4 +91,3 @@
 </div>
 
 ##
-
