@@ -77,7 +77,7 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=batya002&theme=tokyonight" height="220" alt="streak graph" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batya002&theme=github-dark&hide_border=false&border_radius=5&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batya002&theme=github-dark&hide_border=true&border_radius=5&area=true" alt="GitHub Activity Graph" />
 
   <img src="https://github-readme-stats.vercel.app/api?username=batya002&show_icons=true&theme=tokyonight" height="180" />
 
