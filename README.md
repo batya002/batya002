@@ -1,0 +1,49 @@
+![gif](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+###
+
+<h1 align="center">Привет👋 Меня зовут Иззатулло!</h1>
+
+###
+
+<div align='center'>
+  <a href="https://t.me/batya_002" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
+
+##
+
+<h3 align='left'>👩‍💻  Обо мне</h3>
+
+##
+
+<div align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</div>
+
+###
+
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+##
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+	<img width='12' />
+	<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png' height="40" alt='typescript logo' />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+	<img width="12" />
+	<img src='https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png' height='40' alt='node.js logo' />
+	<img width='12' />
+	<img src='assets/images/express.svg' height='40' alt='express.js logo' />
+  <img width='12' />
+  <img src='https://www.svgrepo.com/show/331488/mongodb.svg' height='40' alt='mongodb logo' />
+</div>
+
+##
