@@ -65,16 +65,18 @@
 
 ###
 
-<div align='center'>
-
+<div align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=batya002&theme=tokyonight" height="220" alt="streak graph" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=batya002&theme=github-dark&hide_border=false&border_radius=5&area=true" alt="GitHub Activity Graph" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batya002&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batya002&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=batya002&show_icons=true&theme=tokyonight" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batya002&layout=compact&theme=tokyonight" height="180" />
 
 </div>
+
 
 ##
 
